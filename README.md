@@ -10,7 +10,6 @@
   <h2> 
   
   :construction: Projeto em construção :construction:
-  <p>Finalizar pra mudar pra dark</p>
   </h2>
 </div>
 

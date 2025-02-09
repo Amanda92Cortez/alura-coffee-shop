@@ -48,7 +48,7 @@ O App com modelo de Cafeteria com protudos e detalhes de cada, também formulár
 ---
 
 # 🎯 Desafio <a name="id04"></a>
-Colocar Imagem ou Gif
+<img src="assets/coffeCortez.gif" alt="Gif">
 
 
 ---

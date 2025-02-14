@@ -3,7 +3,7 @@
     Coffee Shop Cortez
     <br />
     <br />
-    <img src="assets/image_06.gif" alt="Gif">
+    <img src="assets/banner.avif" alt="Banner">
     <br />
   </h1>
 

@@ -34,6 +34,10 @@ O App com modelo de Cafeteria com protudos e detalhes de cada, também formulár
 
 ---
 
+` Curso: ` [Alura - Bootstrap 5: novos recursos e práticas recomendadas de HTML, CSS e JavaScript]("https://www.alura.com.br/curso-online-bootstrap-5-novos-recursos-praticas-html-css-javascript")
+
+---
+
 # :computer: Ferramentas<a name="id02"></a>
 
 <div style="display: flex; gap: 10px;">
